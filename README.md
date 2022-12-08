@@ -8,3 +8,6 @@ My Contrabutions:
 -Sensor isolation technique via wireshark filters
 -Threat Model section in report
 -Ran the instance and perform
+
+
+Researched techniques to be implemented for attack. Ran instance for execution stage of group session to test attacks. Brainstormed with the team. Recorded Demo. Threat model for report.

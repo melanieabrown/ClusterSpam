@@ -1,5 +1,5 @@
 # ClusterSpam
 
-Flood Euclidian Cluster sensor on an autoware autonomous vehicle
+Flood Euclidean Cluster sensor on an autoware autonomous vehicle
 
 My Contrabutions:

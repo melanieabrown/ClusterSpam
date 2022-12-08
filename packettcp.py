@@ -3,6 +3,7 @@ import socket
 s = socket.socket(socket.AF_PACKET, socket.SOCK_RAW)
 s.bind(("ens3", 0))
 
+#added ethernet
 ethernet  = b'\xfa\x16\x3e\x6e\x6b\x0b' # MAC Address Destination
 ethernet += b'\xfa\x16\x3e\x6b\x6b\x0b' # MAC Address Source
 ethernet += b'\x08\x00'                 # Protocol-Type: IPv4
